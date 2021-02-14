@@ -12,9 +12,9 @@
     Honestly, i don't know :D  But it seems Cool .
   
   ### Screenshot :
-  ![alt text](https://github.com/anii0101/Python-Shell/blob/master/screenshot.png?raw=true)
+  ![alt text](https://github.com/anii0101/Python-Shell-/blob/main/screenshot.PNG)
   one more:
-  ![alt text](https://github.com/anii0101/Python-Shell/blob/master/screenshot1.png?raw=true)
+  ![alt text](https://github.com/anii0101/Python-Shell/blob/master/screenshot1.PNG)
   
   
   
