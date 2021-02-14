@@ -13,9 +13,9 @@
   
   ### Screenshot :
   ![alt text](https://github.com/anii0101/Python-Shell-/blob/main/screenshot.PNG)
-  one more:
-  ![alt text](https://github.com/anii0101/Python-Shell/blob/master/screenshot1.PNG)
   
+  
+  ![alt text](https://github.com/anii0101/Python-Shell-/blob/main/screenshot1.PNG)
   
   
   ### How Credential File looks(2 users):
