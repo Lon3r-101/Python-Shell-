@@ -12,9 +12,10 @@
     Honestly, i don't know :D  But it seems Cool .
   
   ### Screenshot :
-  ![Screenshot](screenshot.png)
+  ![alt text](https://github.com/anii0101/Python-Shell/blob/master/screenshot.png?raw=true)
   one more:
-  ![Screenshot](screenshot1.png)
+  ![alt text](https://github.com/anii0101/Python-Shell/blob/master/screenshot1.png?raw=true)
+  
   
   
   ### How Credential File looks(2 users):
@@ -23,5 +24,7 @@
   272b36e982ddb833f3780e214096be7f37ca7f6a83a4c1f902c85c85fde99169:184194d710a3a9dc66b666adf3e564c2c8bcb2d31576d4c8a9b76737b875bc1f
 
   ```
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+
+
+
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
