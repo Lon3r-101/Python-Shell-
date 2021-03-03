@@ -36,7 +36,7 @@ def register():
     new_pass = input("Enter Password:")
     retype= input("retype password:")
     if retype != new_pass:
-            print("Password not match [ ! ]")
+            print("Password do not match [ ! ]")
             register()
     else:
         encoduser = encryptuser(new_user)
