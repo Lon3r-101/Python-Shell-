@@ -34,7 +34,7 @@ def startshell(userid):
 def register():
     new_user = input("Enter username:")
     new_pass = input("Enter Password:")
-    retype= input("enter retype password:")
+    retype= input("retype password:")
     if retype != new_pass:
             print("Password not match [ ! ]")
             register()
